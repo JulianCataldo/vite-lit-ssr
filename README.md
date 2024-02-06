@@ -1,5 +1,9 @@
 # Vite Lit SSR Example
 
+> [!NOTE]  
+> [This was](https://github.com/vikerman/vite-lit-ssr) upgraded and slightly adapted for Vite 5 and Lit 3 +
+> added support for native CSS modules with [vite-plugin-standard-css-modules](https://github.com/JulianCataldo/vite-plugin-standard-css-modules).
+
 Minimal example of Lit SSR on top of Vite. Just meant for illustrative and experimentative purposes.
 
 ## Running
